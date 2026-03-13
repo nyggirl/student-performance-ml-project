@@ -1,0 +1,3 @@
+Preprocessing pipeline executed successfully.
+Transformed training shape: (316, 59)
+Transformed testing shape: (79, 59)
